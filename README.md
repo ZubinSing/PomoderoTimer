@@ -1,1 +1,3 @@
 # PomoderoTimer
+
+![PomoderoTimer](PomoderoTimer.png)
